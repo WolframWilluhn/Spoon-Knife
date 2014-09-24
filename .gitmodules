@@ -1,0 +1,3 @@
+[submodule "Little-Fork"]
+	path = Little-Fork
+	url = https://github.com/WolframWilluhn/Little-Fork.git
