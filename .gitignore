@@ -1,0 +1,18 @@
+# Hidden files
+!.htaccess
+
+#NetBeans
+nbproject/
+
+# PHP Storm, other java IDE's
+.idea/
+
+#Eclipse
+license.txt
+.buildpath
+.project
+.settings
+.pydevproject
+
+#Other
+tests/
